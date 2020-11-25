@@ -1,4 +1,4 @@
-FROM bitnami/postgresql:11
+FROM bitnami/postgresql:12-debian-10
 
 USER root
 
